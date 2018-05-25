@@ -1,4 +1,4 @@
 # BruceLeeGallery
 Simple flex panel gallery using CSS + JavaScript.
 
-Demo: https://codepen.io/lucilawless/pen/XqwLpZ
+Demo: https://codepen.io/lucilawless/full/XqwLpZ
